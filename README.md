@@ -17,6 +17,11 @@ for making unflagged fingerprints and properties for account registration
 upper string is fingerprint down string is X-Super-Properties
 
 
+# info❗
+
+
+
+
 
 u just use in signup request
 X-Super-Properties:
