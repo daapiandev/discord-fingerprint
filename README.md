@@ -1,9 +1,17 @@
 # discord-fingerprint✅
 unflagged discord fingerprint+X-Super-Properties yes fully unflagged star for full discord gen!
-for making unflagged fingerprints and properties
+for making unflagged fingerprints and properties for account registration
+
+
+
 
 # media📷
-![image](https://github.com/user-attachments/assets/8dffd7aa-b53f-43e0-b511-39b0f51464a7)
+
+
+
+![Screenshot 2025-07-04 161643](https://github.com/user-attachments/assets/ce5328a9-c74a-4daf-8c98-d78a09f41502)
+
+
 
 
 upper string is fingerprint down string is X-Super-Properties
