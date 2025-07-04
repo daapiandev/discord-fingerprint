@@ -12,6 +12,9 @@ upper string is fingerprint down string is X-Super-Properties
 
 u just use in signup request
 X-Super-Properties:
+
+
+
 ![image](https://github.com/user-attachments/assets/f58db93d-91ba-4a51-bf6c-83b47cad1751)
 
 
@@ -21,6 +24,10 @@ X-Super-Properties:
 
 u use this in request header and payload
 Fingerprint header:
+
+
+
+
 ![image](https://github.com/user-attachments/assets/00b406b6-5cc4-46f8-87c9-8ded567f9215)
 
 
@@ -30,6 +37,9 @@ Fingerprint header:
 
 
 Fingerprint Payload:
+
+
+
 ![image](https://github.com/user-attachments/assets/ff000bbb-2634-4948-b383-66e13c25d6f9)
 
 
