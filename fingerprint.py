@@ -46,11 +46,7 @@ def fetch_and_print():
         "Sec-Fetch-Dest": "empty",
         "Sec-Fetch-Mode": "cors",
         "Sec-Fetch-Site": "same-origin",
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/137.0.0.0 Safari/537.36"
-        ),
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
         "X-Context-Properties": "eyJsb2NhdGlvbiI6IlJlZ2lzdGVyIn0=",
         "X-Debug-Options": "bugReporterEnabled",
         "X-Discord-Locale": "en-GB",
@@ -58,8 +54,7 @@ def fetch_and_print():
         "X-Super-Properties": super_props
     }
     resp = requests.get(url, headers=headers, timeout=10)
-    fingerprint = resp.json().get("fingerprint", "")
-    print(fingerprint)
+    print(resp.json().get("fingerprint", ""))
     print(super_props)
 
 if __name__ == "__main__":
