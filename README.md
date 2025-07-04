@@ -4,6 +4,12 @@ for making unflagged fingerprints and properties for account registration
 
 
 
+# contact📱
+need any more help?
+contact me on discord:
+daapianv2_70385
+
+
 
 # media📷
 
